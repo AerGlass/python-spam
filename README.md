@@ -7,4 +7,6 @@ install the latest version of python<br>
 then go to the cmd and type <br>
 <code>pip install pynput</code> <br>
 press enter and it will begin installing pynput.<br>
+next open python ide, type<br>
+<code>import pynput</code><br>
 afterwards, you can use this app
