@@ -3,11 +3,12 @@ import time
 
 keyboard = Controller()
 
-
-time.sleep(1)
-print("this app will send as many spam as you want")
-
-i = 1
+repeats = int(input("Enter how many spam do you want.")
+              
+              
+              print("Starting in 6 seconds")
+              time.sleep(6)
+              print("STARTING")
 while i < 400:
    keyboard.press("a")
    keyboard.release("a")
