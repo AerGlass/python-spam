@@ -9,7 +9,7 @@ repeats = int(input("Enter how many spam do you want.")
               print("Starting in 6 seconds")
               time.sleep(6)
               print("STARTING")
-while i < 400:
+while i < repeats:
    keyboard.press("a")
    keyboard.release("a")
    keyboard.press(Key.enter)
